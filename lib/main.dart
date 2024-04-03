@@ -48,6 +48,8 @@ class _AnaEkranState extends State<AnaEkran> {
                  children:[
               
                   Container(
+
+                    
                     height: 200,
                     width: MediaQuery.of(context).size.width,
                     color:Colors.grey,
